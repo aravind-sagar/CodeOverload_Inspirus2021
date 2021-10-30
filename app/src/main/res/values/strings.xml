@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">final</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_slideshow">Home</string>
+    <string name="menu_gallery">Home</string>
+    <string name="LostandFound">Lost and found</string>
+    <string name="report">Report incident</string>
+    <string name="canteen">canteen</string>
+    <string name="menu_eventnoti">Event notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Canteen">Canteen</string>
+</resources>

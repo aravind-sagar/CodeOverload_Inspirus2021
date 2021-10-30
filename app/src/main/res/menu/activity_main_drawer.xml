@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/ic_food"
+            android:title="@string/Canteen" />
+        <item
+            android:id="@+id/nav_lost"
+            android:icon="@drawable/ic_lost"
+            android:title="@string/LostandFound" />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/ic_reportp"
+            android:title="@string/report" />
+        <item
+            android:id="@+id/nav_noti"
+            android:icon="@drawable/ic_noti"
+            android:title="@string/menu_eventnoti" />
+    </group>
+</menu>
